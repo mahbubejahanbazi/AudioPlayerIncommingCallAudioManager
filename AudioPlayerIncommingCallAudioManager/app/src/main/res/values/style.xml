@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyCheckBox" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/file_audio_item</item>
+        <item name="colorControlActivated">@color/file_audio_seekbar_progress</item>
+    </style>
+</resources>
