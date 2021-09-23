@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true">
 
-        <ir.mjahanbazi.audioplayerincommingcallaudiomanager.MyAudioPlayer
+        <ir.mjahanbazi.audioplayerincommingcallaudiomanager.AudioPlayer
             android:id="@+id/activity_main_audio_player"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

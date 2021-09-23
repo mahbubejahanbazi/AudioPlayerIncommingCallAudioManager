@@ -10,8 +10,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 
 public class MainActivity extends AppCompatActivity {
-    public MyAudioPlayer audioPlayer;
-    private MyAudioListenerDefault listener = new MyAudioListenerDefault() {
+    public AudioPlayer audioPlayer;
+    private AudioListenerDefault listener = new AudioListenerDefault() {
         @Override
         public void changeToCall() {
             if (audioPlayer.isPlaying()) {
